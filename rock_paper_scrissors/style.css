@@ -1,0 +1,18 @@
+body{
+    background-color : rgb(146, 232, 232);  
+}
+
+button{
+    color:blue;
+}
+
+h2{
+    color:blue;
+}
+
+.center{
+    text-align: center;
+    position : relative;
+    top: 200px;
+    
+}

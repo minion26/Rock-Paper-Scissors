@@ -1,0 +1,19 @@
+body{
+    background-color: lightpink;
+}
+h2{
+    color: deeppink;
+}
+
+button{
+    color: hotpink;
+}
+
+.radio{
+    color: pink;
+}
+.center{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}

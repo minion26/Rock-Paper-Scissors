@@ -1,0 +1,9 @@
+.center{
+    text-align: center;
+    position : relative;
+    top: 200px;
+}
+
+body {
+    background-color: rgb(114, 234, 156);
+}
